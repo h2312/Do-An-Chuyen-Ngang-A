@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66b8f752255584e44ad681a70cd5cfa6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firePoint: {instanceID: 0}
+  - muzzleParticle: {fileID: 198000010555884938, guid: 95c9572b9dfb45a439e921fba994e8e0,
+      type: 3}
+  - gunFiresource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
